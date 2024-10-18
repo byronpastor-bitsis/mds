@@ -9,6 +9,17 @@
 |[propuesta 4](https://elements.envato.com/es/hero-pro-business-admin-dashboards-WZD2KUY)|![[propuesta 4](https://elements.envato.com/es/hero-pro-business-admin-dashboards-WZD2KUY)](heropro.png)
 |[propuesta 5](https://elements.envato.com/es/businex-react-corporate-business-template-L9GKCWV)|![[propuesta 5](https://elements.envato.com/es/businex-react-corporate-business-template-L9GKCWV)](businex.png)
 |[propuesta 6](https://elements.envato.com/es/perfect-business-consulting-html-template-VUXPWT3)|![[propuesta 6](https://elements.envato.com/es/perfect-business-consulting-html-template-VUXPWT3)](perfect.png)
+
+## zona de partners
+
+*empresa* | *como administran sus parters*
+--:|:--
+**vercel**|![](vercel_partnership.png)
+**oracle partner logos**| ![](partner_oracle.png)
+**oracle about xp clients**| ![](oracle_partner_exp.png)
+**IBM partnership vercel**| ![](strategic_partnership.png)
+
+
 ### un footer oscuro es tendencia en la mayoria de paginas de tecnologia
 
 Un footer oscuro en un sitio con tema diurno mejora la jerarquía visual y el contraste, ayudando a diferenciar claramente el final del contenido principal. También facilita destacar enlaces importantes sin distracción. La industria lo usa porque crea equilibrio visual, da un toque elegante y profesional, y ofrece una transición visual suave hacia el cierre de la página.
