@@ -87,14 +87,7 @@ Material Design es una referencia de diseño desarrollada por Google que se dest
 * Colores Principales: Azul (#004B87) y blanco.
 > Análisis: Similar a IBM y Salesforce, SAP utiliza el azul para evocar confianza y estabilidad. Este color resuena bien en el contexto empresarial, donde las decisiones críticas se basan en datos y soluciones confiables. El uso de blanco como color complementario aporta claridad y modernidad.
 
-| **Los colores de los grandes.** |  |  |  |  |  |  |  |  
-|----|--|--|--|--|--|--|--|
-| **Paleta 1: IBM** | <div style="background-color:#005EB8; width:2rem; height:2rem;"></div> | <div style="background-color:#00A3E0; width:2rem; height:2rem;"></div> | <div style="background-color:#A7C6ED; width:2rem; height:2rem;"></div> | <div style="background-color:#F2F2F2; width:2rem; height:2rem;"></div> | <div style="background-color:#FFFFFF; width:2rem; height:2rem;"></div> | <div style="background-color:#E1E1E1; width:2rem; height:2rem;"></div> | <div style="background-color:#3C3C3C; width:2rem; height:2rem;"></div> |
-| **Paleta 2: Microsoft** | <div style="background-color:#F25022; width:2rem; height:2rem;"></div> | <div style="background-color:#7FBA00; width:2rem; height:2rem;"></div> | <div style="background-color:#00A4EF; width:2rem; height:2rem;"></div> | <div style="background-color:#FFB900; width:2rem; height:2rem;"></div> | <div style="background-color:#FFFFFF; width:2rem; height:2rem;"></div> | <div style="background-color:#D6D6D6; width:2rem; height:2rem;"></div> | <div style="background-color:#F7F7F7; width:2rem; height:2rem;"></div> |
-| **Paleta 3: Salesforce** | <div style="background-color:#00A1E0; width:2rem; height:2rem;"></div> | <div style="background-color:#0097D4; width:2rem; height:2rem;"></div> | <div style="background-color:#F6F6F6; width:2rem; height:2rem;"></div> | <div style="background-color:#D9E6F5; width:2rem; height:2rem;"></div> | <div style="background-color:#FFFFFF; width:2rem; height:2rem;"></div> | <div style="background-color:#B2D9E5; width:2rem; height:2rem;"></div> | <div style="background-color:#005B7F; width:2rem; height:2rem;"></div> |
-| **Paleta 4: Oracle** | <div style="background-color:#F80000; width:2rem; height:2rem;"></div> | <div style="background-color:#D7D7D7; width:2rem; height:2rem;"></div> | <div style="background-color:#A8A8A8; width:2rem; height:2rem;"></div> | <div style="background-color:#FFFFFF; width:2rem; height:2rem;"></div> | <div style="background-color:#C8C8C8; width:2rem; height:2rem;"></div> | <div style="background-color:#666666; width:2rem; height:2rem;"></div> | <div style="background-color:#3D3D3D; width:2rem; height:2rem;"></div> |
-| **Paleta 5: SAP** | <div style="background-color:#004B87; width:2rem; height:2rem;"></div> | <div style="background-color:#0095D9; width:2rem; height:2rem;"></div> | <div style="background-color:#A1C4E8; width:2rem; height:2rem;"></div> | <div style="background-color:#FFFFFF; width:2rem; height:2rem;"></div> | <div style="background-color:#E5E5E5; width:2rem; height:2rem;"></div> | <div style="background-color:#A7A8AA; width:2rem; height:2rem;"></div> | <div style="background-color:#6C757D; width:2rem; height:2rem;"></div> |
-
+![colores de las empresas mas grandes](coloresEmpresa.png)
 ---
 
 
@@ -103,11 +96,11 @@ Material Design es una referencia de diseño desarrollada por Google que se dest
 ya poseemos una identidad tanto como marca-empresa, solo debemos incentivar la presencia. debemos de cambiar la estructura de como utilizamos esos colores. por ello propongo lo siguiente.
 
 * #### BITSIS 
-    antiguamente utilizamos estos colores. <div style="display:flex"><div style="background-color:#FE8A18; width:2rem; height:2rem;"></div><div style="background-color:#fff; width:2rem; height:2rem;"></div><div style="background-color:#242647; width:2rem; height:2rem;"></div></div>
-    pero una simplificacion hacia estos colores principales nos da a una definicion de proposito. 
-    
+    antiguamente utilizamos estos colores. ![](oldColores.png)
+    pero una simplificacion hacia estos colores principales nos daria a una definicion de proposito.
+  
     dejando unicamente el naranja como identificador. con lo cual un complemetario seria ideal. tal cual azules o celestes 
-    
+   ![](newColores.png)
     que nos sirvan de contruccion y el naranja como acento, lo cual nos ayuda a no sobre cargar con ese naranja tan caracteristico.
 
     pues las marcas que sobre cargan de un solo color deben guiarse solamente de su color y acentuaciones.
