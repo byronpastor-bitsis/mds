@@ -1,27 +1,22 @@
+
 # propuesta  de cambio de imagen
 
-### un header  blanco es util en muchas empresas, aunque muchos tambien optan por heaers oscuros.
-```
-
-```
-
-
-*Plantillas*|**
-:---:|:---:
-|hola|hola
-
-
-
+*no.*|*preview de la propuesta*
+--:|--:
+|[propuesta 1 desde wix](https://es.wix.com/website-template/view/html/2101?originUrl=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fbusiness%2Ftechnology-apps&tpClick=view_button&esi=25d3685a-9702-4650-ba65-ca785d769500)|![propuesta wix](propuesta%201.png)|
+|[propuesta 2](https://elements.envato.com/es/business-corporate-finance-html5-template-W344N5N)|![](cosal.png)
+|[propuesta 3](https://demo.frontted.com/stackadmin/133/choose.html?storefront=envato-elements)|![](frontted.png)
+|[propuesta 4](https://elements.envato.com/es/hero-pro-business-admin-dashboards-WZD2KUY)|![](heropro.png)
+|[propuesta 5](https://elements.envato.com/es/businex-react-corporate-business-template-L9GKCWV)|![](businex.png)
+|[propuesta 6](https://elements.envato.com/es/perfect-business-consulting-html-template-VUXPWT3)|![](perfect.png)
 ### un footer oscuro es tendencia en la mayoria de paginas de tecnologia
 
-Un footer oscuro en un sitio con tema diurno mejora la jerarquía visual y el contraste,
-ayudando a diferenciar claramente el final del contenido principal. También facilita destacar enlaces importantes sin distracción.
-La industria lo usa porque crea equilibrio visual, da un toque elegante y profesional,
-y ofrece una transición visual suave hacia el cierre de la página.
+Un footer oscuro en un sitio con tema diurno mejora la jerarquía visual y el contraste, ayudando a diferenciar claramente el final del contenido principal. También facilita destacar enlaces importantes sin distracción. La industria lo usa porque crea equilibrio visual, da un toque elegante y profesional, y ofrece una transición visual suave hacia el cierre de la página.
 
 *react page*| *bitcoin page*| *imb page*
 :---:|:---:|:---|
 ![react](react_footer.png)| ![bitcoin](footer_bitcoin.png)|![ibm](footer_ibm.png)
+
 
 
 
