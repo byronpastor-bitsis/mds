@@ -116,7 +116,7 @@ ya poseemos una identidad tanto como marca-empresa, solo debemos incentivar la p
     * mis propuestas de colores son
 
 
-![paleta de colores](paleta.png)
+![paleta de colores](colores.png)
 
 ### para una mejor eleccion podemos ver estos colores en uso.
 
