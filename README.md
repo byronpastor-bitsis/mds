@@ -4,14 +4,21 @@
 ```
 
 ```
-**|**|**
+
+
+*Plantillas*|**
+:---:|:---:
+|hola|hola
 
 
 
 ### un footer oscuro es tendencia en la mayoria de paginas de tecnologia
-```
-Un footer oscuro en un sitio con tema diurno mejora la jerarquía visual y el contraste, ayudando a diferenciar claramente el final del contenido principal. También facilita destacar enlaces importantes sin distracción. La industria lo usa porque crea equilibrio visual, da un toque elegante y profesional, y ofrece una transición visual suave hacia el cierre de la página.
-```
+
+Un footer oscuro en un sitio con tema diurno mejora la jerarquía visual y el contraste,
+ayudando a diferenciar claramente el final del contenido principal. También facilita destacar enlaces importantes sin distracción.
+La industria lo usa porque crea equilibrio visual, da un toque elegante y profesional,
+y ofrece una transición visual suave hacia el cierre de la página.
+
 *react page*| *bitcoin page*| *imb page*
 :---:|:---:|:---|
 ![react](react_footer.png)| ![bitcoin](footer_bitcoin.png)|![ibm](footer_ibm.png)
