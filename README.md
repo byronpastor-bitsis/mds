@@ -96,11 +96,12 @@ Material Design es una referencia de diseño desarrollada por Google que se dest
 ya poseemos una identidad tanto como marca-empresa, solo debemos incentivar la presencia. debemos de cambiar la estructura de como utilizamos esos colores. por ello propongo lo siguiente.
 
 * #### BITSIS 
-    antiguamente utilizamos estos colores. ![](oldColores.png)
+    antiguamente utilizamos estos colores.
+  ![a](oldColors.png)
     pero una simplificacion hacia estos colores principales nos daria a una definicion de proposito.
   
     dejando unicamente el naranja como identificador. con lo cual un complemetario seria ideal. tal cual azules o celestes 
-   ![](newColores.png)
+   ![](newColors.png)
     que nos sirvan de contruccion y el naranja como acento, lo cual nos ayuda a no sobre cargar con ese naranja tan caracteristico.
 
     pues las marcas que sobre cargan de un solo color deben guiarse solamente de su color y acentuaciones.
