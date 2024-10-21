@@ -73,6 +73,8 @@ Material Design es una referencia de diseño desarrollada por Google que se dest
 2. Zoom
 2. Bing
 
+> [!IMPORTANT]  
+> actualmente estas paletas estan desechadas, solo verlas si tienes curiosidad
 
 ### la identidad de los grande.
 
