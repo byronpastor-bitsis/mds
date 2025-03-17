@@ -1,27 +1,22 @@
-import xmlrpc.client
+import requests
 import datetime
 
-# Configurar la conexión con Odoo
-url = 'http://localhost:8069'  # Cambia según tu configuración
-db = 'nombre_de_tu_base_de_datos'
-username = 'admin'
-password = 'tu_contraseña'
+url = 'http://localhost:8069/web/database/backup'
+db_name = 'nombre_de_tu_base_de_datos'
+backup_path = f'backup_{db_name}_{datetime.datetime.now().strftime("%Y%m%d_%H%M%S")}.zip'
 
-# Conectar con Odoo
-common = xmlrpc.client.ServerProxy(f'{url}/xmlrpc/2/common')
-uid = common.authenticate(db, username, password, {})
+# Enviar la petición POST a Odoo
+response = requests.post(url, data={
+    'master_pwd': 'tu_contraseña_de_odoo',  # Clave maestra (configurada en odoo.conf)
+    'name': db_name,
+    'backup_format': 'zip'
+})
 
-if uid:
-    # Crear la conexión al modelo 'db.backup' en Odoo
-    models = xmlrpc.client.ServerProxy(f'{url}/xmlrpc/2/object')
-
-    # Generar el backup
-    backup_name = f'backup_{db}_{datetime.datetime.now().strftime("%Y%m%d_%H%M%S")}.zip'
-    backup = models.execute_kw(db, uid, password, 'db.backup', 'backup', [db])
-
-    # Guardar el backup en un archivo
-    with open(backup_name, 'wb') as f:
-        f.write(backup)
-    print(f'Backup guardado como {backup_name}')
+# Guardar el archivo si la respuesta es correcta
+if response.status_code == 200:
+    with open(backup_path, 'wb') as f:
+        f.write(response.content)
+    print(f'✅ Backup guardado como {backup_path}')
 else:
-    print('Error al autenticar con Odoo')
+    print(f'❌ Error en la petición: {response.status_code} - {response.text}')
+
